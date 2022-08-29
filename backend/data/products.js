@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'AMD Ryzen 5 5600X',
     image: '/images/5600x.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Intel Core i5 12600K',
     image: '/images/12600k.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Nvidia Geforce RTX 3080Ti',
     image: '/images/3080Ti.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'NZXT H510 Mid-Tower PC Case',
     image: '/images/H510.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: '16GB Corsair Vengeance LPX DDR4 3200MHz',
     image: '/images/vengeance.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Samsung 970 EVO Plus 1 TB PCIe',
     image: '/images/970.jpg',
     description:
